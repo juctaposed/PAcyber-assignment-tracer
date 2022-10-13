@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/juctaposed/PAcyber-assignment-tracer/blob/main/public/PA-logo.png" alt="logo" align="center" width="256" height="155"/>
+</p>
+
 <div align="center">
 
 # PA Cyber Task Tracer
