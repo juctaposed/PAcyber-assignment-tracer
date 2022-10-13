@@ -14,7 +14,7 @@ Link to Project: https://task-tracer.netlify.app/
 ![](https://github.com/juctaposed/PAcyber-assignment-tracer/blob/main/public/taskTracerDemo.gif)
 
 ## How It's Made:
-Tech used: HTML, CSS, JavaScript, React.js
+Tech used: React.js, CSS, JavaScript
 
 Everything on the page is a component - which was a great exercise in thought as to what else can actually be molded into components. Using the State hook made handling changes to each of these components throughout the entire user interaction with the application a breeze. 
 
